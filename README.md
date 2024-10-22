@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>"I am an enthusiastic aspiring full stack developer with a passion for creating user-friendly projects and contributing to open source initiatives. My goal is to leverage my skills and creativity to build innovative solutions that enhance the user experience and make a positive impact in the developer community."
+<br>" Hey There , I am Aayush Tirmanwar , I am an enthusiastic aspiring full stack developer with a passion for creating user-friendly projects and contributing to open source initiatives. My goal is to leverage my skills and creativity to build innovative solutions that enhance the user experience and make a positive impact in the developer community."
 
 
 ## 🌐 Socials:
