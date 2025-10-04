@@ -1,12 +1,15 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+![_](https://github.com/user-attachments/assets/a0306909-5630-499d-b294-a623ce94c41e)<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/43/1c/e5/431ce5d15aab86f66a91ec9a07c9114f.gif"  />
+  <img height="500" src="[https://i.pinimg.com/originals/43/1c/e5/431ce5d15aab86f66a91ec9a07c9114f.gif](https://i.pinimg.com/1200x/ff/06/2a/ff062a4ee4971a6a6e8fd54c28eeb917.jpg)"  />
 </div>
+
+![_](https://github.com/user-attachments/assets/4acf78b1-59cc-4edd-9ddb-12073794279b)
+
 
 ###
 
